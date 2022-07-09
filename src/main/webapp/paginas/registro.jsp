@@ -36,7 +36,7 @@
                                             
                         <div class="d-flex justify-content-center">
                             <div class="col-14 mb-2"><br>
-                                <button type="submit" value="Enviar" style="width:100px ;" class="btn btn-primary btn-sm">Registrarse</button>
+                                <button type="submit" value="registro" style="width:100px ;" class="btn btn-primary btn-sm">Registrarse</button>
                                 <a class="btn btn-danger btn-sm m-2" style="width:100px ;" href="../index.jsp" role="button">Salir</a>
                             </div>
                         </div>

@@ -14,4 +14,14 @@
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
+  <servlet>
+    <description></description>
+    <display-name>Registro</display-name>
+    <servlet-name>Registro</servlet-name>
+    <servlet-class>controladores.Registro</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>Registro</servlet-name>
+    <url-pattern>/Registro</url-pattern>
+  </servlet-mapping>
 </web-app>
