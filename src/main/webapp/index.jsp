@@ -19,7 +19,7 @@
     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
       <div class="navbar-nav">
         <a class="nav-link" href="paginas/login.jsp">Login</a>
-        <a class="nav-link" href="#">Registro</a>
+        <a class="nav-link" href="paginas/registro.jsp">Registro</a>
   
       </div>
     </div>
