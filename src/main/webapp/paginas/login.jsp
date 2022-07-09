@@ -10,6 +10,11 @@
 <body>
 
 	
+	  <!-- IMPORT NAVBAR mediante directiva de jsp-->
+	
+	  <%@include file="../index.jsp" %>
+	
+	  <!-- LOGIN -->
  		
  	  <div id="form" class="container p-5 d-flex justify-content-center align-items-center" style="margin-top:150px;">
         
